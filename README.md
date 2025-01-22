@@ -1,6 +1,4 @@
-Here's the complete `README.md` in your requested format with visual clarity and structured organization:  
 
-```markdown
 # Implementation-of-advanced-deep-learning-techniques
 
 Implementation of advanced deep learning techniques using Dice Loss and Focal Loss for optimal performance, including image patching and preprocessing.
